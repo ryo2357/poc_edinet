@@ -1,5 +1,5 @@
 /target
-
+/output
 /vendor
 /log
 .env
